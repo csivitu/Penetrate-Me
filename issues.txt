@@ -1,2 +1,0 @@
-1) Fix the error thrown by admin_insert.php when adding a new user
-2)
