@@ -36,6 +36,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+A basic data handling php website to add and delete user data to and from your database. It can be used as a platform to understand how data is handled and users can implement it further in their future projects.It has been implemented using PHP.
 
 Project Name - Penetrate Me
 
