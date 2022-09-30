@@ -12,11 +12,11 @@
   <p align="center">
     A basic data handling php website to add and delete user data to and from your database.
     <br />
-    <a href="https://github.com/csivitu/3xpl0itk1t">View Demo</a>
+    <a href="https://github.com/csivitu/Penetrate-me">View Demo</a>
     ·
-    <a href="https://github.com/csivitu/3xpl0itk1t/issues">Report Bug</a>
+    <a href="https://github.com/csivitu/Penetrate-me/issues">Report Bug</a>
     ·
-    <a href="https://github.com/csivitu/3xpl0itk1t/issues">Request Feature</a>
+    <a href="https://github.com/csivitu/Penetrate-me/issues">Request Feature</a>
   </p>
 </p>
 
@@ -53,6 +53,16 @@ Project Name - Penetrate Me
 
 To get a local copy up and running follow these simple steps.
 
+### Installation
+
+1. Clone this repo
+```sh
+https://github.com/csivitu/Penetrate-Me
+```
+2. Make a branch
+- Check [Contributing](#contributing) on how to make a branch
+
+3. And start your contributions.
 
 ### Website Link
  
@@ -64,8 +74,6 @@ https://penetrate-me.herokuapp.com/
 ```sh
 username : admin , password : 1234
 ```
-
-3. And start your contributions.
 
 
 <!-- ROADMAP -->
