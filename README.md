@@ -54,10 +54,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
-* []()
-* []()
-
+* [PHP](https://www.php.net/)
 
 
 <!-- GETTING STARTED -->
@@ -77,13 +74,12 @@ npm install npm@latest -g
  
 1. Clone the repo
 ```sh
-git clone https://github.com/csivitu/Template.git
+git clone https://github.com/csivitu/Penetrate-Me
 ```
 2. Install NPM packages
 ```sh
 npm install
 ```
-
 
 
 <!-- USAGE EXAMPLES -->
