@@ -1,7 +1,7 @@
 <?php
 include 'config.php';
-$uname= ["username"];
-$email= ["email"];
+$uname= mysqli_real_escape_string($connection,$_POST["username"]);
+$email= mysqli_real_escape_string($connection,$_POST["email"]);
 $balance= ["balance"];
 
 $sql='select * from users where username="'.$uname.'";';
