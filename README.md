@@ -31,6 +31,7 @@
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
 * [License](#license)
+* [Contributors](#contributors)
 
 
 
@@ -97,8 +98,15 @@ Contributions are what make the open source community such an amazing place to b
 
 You are requested to follow the contribution guidelines specified in [CONTRIBUTING.md](./CONTRIBUTING.md) while contributing to the project :smile:.
 
+## Contributors
+
+<a href="https://github.com/csivitu/Penetrate-Me/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=csivitu/Penetrate-Me" />
+
+
 <!-- LICENSE -->
 ## License
+
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
