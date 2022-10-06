@@ -7,7 +7,7 @@
     <img src="https://csivit.com/images/favicon.png" alt="Logo" width="80">  <img src="https://user-images.githubusercontent.com/64297193/193189952-c1771741-fc60-4bf5-abc2-34926f3f566c.png" alt="Logo" width="80">
   </a>
 
-  <h3 align="center">vbay</h3>
+  <h3 align="center">Penetrate Me</h3>
 
   <p align="center">
     A basic data handling php website to add and delete user data to and from your database.
