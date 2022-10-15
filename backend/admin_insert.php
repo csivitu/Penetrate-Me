@@ -1,6 +1,6 @@
 <?php
 include 'config.php';
-$uname= mysqli_real_escape_string($connection,$_POST["username"]);
+$uname= htmlspecialchars(mysqli_real_escape_string($connection,$_POST["username"]), ENT_QUOTES, 'UTF-8');
 $email= mysqli_real_escape_string($connection,$_POST["email"]);
 $balance= $_POST["balance"];
 
